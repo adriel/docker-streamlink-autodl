@@ -1,4 +1,4 @@
-FROM python:3.13.0b2-slim-bullseye
+FROM python:3.13.0rc1-slim-bullseye
 LABEL maintainer="Adriel"
 
 ENV streamlink_version=6.7.2
